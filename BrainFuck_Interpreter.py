@@ -1,7 +1,5 @@
 from __future__ import print_function
 import sys
-import time
-start_time = time.time()
 
 class Brainfuck:
 	def __init__(self, src):
@@ -78,4 +76,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-	print("--- %s seconds ---" % (time.time() - start_time))
