@@ -43,7 +43,7 @@ The following program prints Hello World!
 <++++>-]<+.[-]++++++++++.
 ```
 
-Three test programs are provided : helloworld.bf, hanoi.bf and mandelbrot.bf
+Two test programs are provided : helloworld.bf and mandelbrot.bf
 Time taken by the interpreter to interpret mandelbrot.bf and to create the mandelbrot set is  7294.171278 seconds (around 2.02 hours).
 
 
